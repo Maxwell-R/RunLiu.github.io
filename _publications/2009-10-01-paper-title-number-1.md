@@ -1,7 +1,7 @@
 ---
-title: "[T-IES] An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles"
+title: "[T-ITS] An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles"
 collection: publications
-excerpt: 'IEEE Transactions on Intelligent Transportation Systems'
+excerpt: 'IEEE Transactions on Intelligent Transportation Systems (T-ITS) <b> CCF B </b>'
 date: 2021-10-28
 venue: '28 October'
 paperurl: 
