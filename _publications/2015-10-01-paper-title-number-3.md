@@ -3,8 +3,8 @@ title: "DRL-UTPS: DRL-based UAV Trajectory Planning Solution for Data Collection
 collection: publications
 permalink: 
 excerpt: 'In Preparation'
-date: 
-venue: 
+date: 2100-1-1
+venue: '1 January'
 paperurl: 
 citation: ''
 ---
