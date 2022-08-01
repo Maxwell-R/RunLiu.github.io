@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 A data-driven personal website
 ======
-I received my B.E. degree in the Internet of Things Engineering at the School of Computer Science and Engineering, Central South University (CSU), China, in 2022. I'm currently pursuing the master's degree in Computer Applied Technology at the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS). My research interests include Internet-of-Things, computer networks, edge computing and deep reinforcement learning.
+I received my B.E. degree in the Internet of Things Engineering at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/index.htm), [Central South University](https://www.csu.edu.cn/) (CSU), China, in 2022. I'm currently pursuing the master's degree in Computer Applied Technology at the [School of Artificial Intelligence](), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS). My research interests include Internet-of-Things, computer networks, edge computing and deep reinforcement learning.
 
 Getting started
 ======
