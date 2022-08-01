@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-10-28
+venue: '28 October'
+paperurl: 
+citation: 'R. Liu, A. Liu, Z. Qu and N. N. Xiong, "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles," in <i>IEEE Transactions on Intelligent Transportation Systems</i>, doi: 10.1109/TITS.2021.3122567.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: R. Liu, A. Liu, Z. Qu and N. N. Xiong, "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles," in <i>IEEE Transactions on Intelligent Transportation Systems</i>, doi: 10.1109/TITS.2021.3122567.
