@@ -12,3 +12,7 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 Selected Publications
 ======
 1. [IEEE T-ITS] <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles. <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i></b>
+
+Professional Activities
+======
+1. <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (T-ITS)
