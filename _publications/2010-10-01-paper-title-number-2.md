@@ -3,7 +3,7 @@ title: "A Computing and Communication System for Delay-aware Task Offloading in 
 collection: publications
 permalink: 
 excerpt: '<b>Submitted</b>'
-date: 2100-1-1
+date: 1900-1-1
 venue: '1 January'
 paperurl: ''
 citation: ''
