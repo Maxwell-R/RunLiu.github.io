@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+  - title: "cv"
+    url: /cv/
   - title: "Guide"
     url: /markdown/
