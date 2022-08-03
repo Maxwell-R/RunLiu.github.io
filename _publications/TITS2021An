@@ -5,6 +5,6 @@ excerpt: '<b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i><br/><b> 
 date: 2021-10-28
 venue: '28 October'
 paperurl: 
-citation: '@ARTICLE{9592698,  author={Liu, Run and Liu, Anfeng and Qu, Zhenzhe and Xiong, Neal N.},  journal={IEEE Transactions on Intelligent Transportation Systems},   title={An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles},   year={2021},  volume={},  number={},  pages={1-15},  doi={10.1109/TITS.2021.3122567}}'
+citation: '@ARTICLE{9592698,<br/>  author={Liu, Run and Liu, Anfeng and Qu, Zhenzhe and Xiong, Neal N.},<br/>  journal={IEEE Transactions on Intelligent Transportation Systems},<br/>   title={An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles},<br/>   year={2021},<br/>  volume={},<br/>  number={},<br/>  pages={1-15},<br/>  doi={10.1109/TITS.2021.3122567}}'
 ---
 
