@@ -7,4 +7,5 @@ venue: '28 October'
 paperurl: 
 citation: 'R. Liu, A. Liu, Z. Qu and N. N. Xiong, "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles," in <i>IEEE Transactions on Intelligent Transportation Systems</i>, doi: 10.1109/TITS.2021.3122567.'
 ---
+## BibTeX
 >@ARTICLE{9592698,  author={Liu, Run and Liu, Anfeng and Qu, Zhenzhe and Xiong, Neal N.},  journal={IEEE Transactions on Intelligent Transportation Systems},   title={An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles},   year={2021},  volume={},  number={},  pages={1-15},  doi={10.1109/TITS.2021.3122567}}
