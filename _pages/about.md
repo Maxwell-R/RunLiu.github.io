@@ -11,9 +11,9 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 
 Education
 ======
-* **B.E.** in Internet of Things Engineering, **Central South University**, 2022
-* **M.E.** in Computer Applied Technology, **University of Chinese Academy of Sciences**, 2025
-   * **Program 10** in Communication Technology and Applications, 2025
+* **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022.
+* **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025.
+   * **Program 10** in _Communication Technology and Applications_, 2023.
 
 Selected Publications
 ======
