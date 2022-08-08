@@ -17,7 +17,11 @@ Education
 
 Selected Publications
 ======
+### Journals
 1. **[IEEE T-ITS]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles. <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i></b>
+
+### Conferences
+
 
 Professional Activities
 ======
