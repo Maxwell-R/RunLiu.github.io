@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my B.E. degree in the Internet of Things Engineering at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/index.htm), [Central South University](https://www.csu.edu.cn/) (CSU), China, in 2022. I'm currently pursuing the master's degree in Computer Applied Technology at the [School of Artificial Intelligence](), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS). My research interests include Internet of Things, Wireless Networks, Wireless Communication, Edge Computing and Deep Reinforcement Learning.
+I received my B.E. degree in the Internet of Things Engineering at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/index.htm), [Central South University](https://www.csu.edu.cn/) (CSU), China, in 2022. I'm currently pursuing the master's degree in Computer Applied Technology at the [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), Research Center of Ubiqutious Sensor Networks, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS). My research interests include Internet of Things, Wireless Networks, Wireless Communication, Edge Computing and Deep Reinforcement Learning.
 
 Education
 ======
