@@ -17,12 +17,14 @@ Education
 
 Selected Publications
 ======
-## Journals
+### Journals
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network. <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network. <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
 
 1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles. <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i></b>
-## Conferences
+
+
+### Conferences
 
 
 Professional Activities
