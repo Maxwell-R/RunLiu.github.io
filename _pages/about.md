@@ -19,7 +19,7 @@ Submitted Papers
 1. <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network."
 2. <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network."
 
-Selected Publications
+Published Papers
 ======
 ### Journals
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
