@@ -14,6 +14,11 @@ Education
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
 
+Submitted Papers
+======
+1. <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network."
+2. <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network."
+
 Selected Publications
 ======
 ### Journals
@@ -39,4 +44,4 @@ Website Visits
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Total page views<span id="busuanzi_value_site_pv"></span></span>
+<span id="busuanzi_container_site_pv">Total page views <span id="busuanzi_value_site_pv"></span></span>
