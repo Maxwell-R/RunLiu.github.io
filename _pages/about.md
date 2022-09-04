@@ -14,10 +14,7 @@ Education
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
 
-Submitted Papers
-======
-1. <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network."
-2. <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network."
+
 
 Published Papers
 ======
@@ -29,7 +26,6 @@ Publication Years: [2021](#jump2021)
 ### <span id="jump2021">2021</span>
 
 1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i></b>
-
 
 ### Conferences
 
