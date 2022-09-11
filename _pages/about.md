@@ -31,7 +31,7 @@ Publication Years: [2021](#jump2021)
 
 Award
 ======
-
+1. **Student Scholarship of University of Chinese Academy of Sciences** in 2021.
 
 Professional Activities
 ======
