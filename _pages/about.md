@@ -31,11 +31,12 @@ Publication Years: [2021](#jump2021)
 
 Award
 ======
-1. **Student Scholarship of University of Chinese Academy of Sciences** in 2021.
+* \[2021\]**Student Scholarship of University of Chinese Academy of Sciences**.
+* \[2021\]**Outstanding Graduate of Central South University**.
 
 Professional Activities
 ======
-1. <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (T-ITS)
+* <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (T-ITS)
 
 Website Visits
 ======
