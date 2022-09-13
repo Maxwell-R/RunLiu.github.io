@@ -23,7 +23,7 @@ Published Papers
 ### Journals
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
-
+<!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2022">2022</span>
