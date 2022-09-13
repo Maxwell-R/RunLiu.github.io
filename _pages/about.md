@@ -31,7 +31,7 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2021">2021</span>
 
-1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">\[CCF B|JCR Q1] </font></b>
+1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong*</i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">[CCF B|JCR Q1] </font></b>
 
 ### Conferences
 
