@@ -31,8 +31,8 @@ Publication Years: [2021](#jump2021)
 
 Award
 ======
-* \[2021\]**Student Scholarship of University of Chinese Academy of Sciences**.
-* \[2021\]**Outstanding Graduate of Central South University**.
+* \[2021\] **Student Scholarship of University of Chinese Academy of Sciences**.
+* \[2021\] **Outstanding Graduate of Central South University**.
 
 Professional Activities
 ======
