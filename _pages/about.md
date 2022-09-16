@@ -11,14 +11,14 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 
 Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
-Education
+<font color=DarkBlue> Education </font>
 ======
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
 
 
 
-Published Papers
+<font color=DarkBlue> Published Papers </font>
 ======
 ### Journals
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
@@ -37,16 +37,16 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### Conferences
 
-Award & Honor
+<font color=DarkBlue> Award & Honor </font>
 ======
 * **\[2021\]** **Student Scholarship of University of Chinese Academy of Sciences**.
 * **\[2021\]** **Outstanding Graduate of Central South University**.
 
-Professional Activities
+<font color=DarkBlue> Professional Activities </font>
 ======
 * <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (T-ITS)
 
-Website Visits
+<font color=DarkBlue> Website Visits </font>
 ======
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
