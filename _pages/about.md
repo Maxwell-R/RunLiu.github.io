@@ -20,9 +20,8 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 <font color=DarkBlue> Published Papers </font>
 ======
-### Journals
+### Journal
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
-<!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 <!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 \# co-first authors, * corresponding author 
 
@@ -35,7 +34,7 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">[CCF B|JCR Q1] </font></b>
 
-### Conferences
+### Conference
 
 <font color=DarkBlue> Award & Honor </font>
 ======
