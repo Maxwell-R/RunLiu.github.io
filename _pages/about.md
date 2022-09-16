@@ -11,15 +11,14 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 
 Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
-<font color=DarkBlue> Education </font>
-======
+<font color=DarkBlue> # Education </font>
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
 
 
 
-<font color=DarkBlue> Published Papers </font>
-======
+<font color=DarkBlue> # Published Papers </font>
+
 ### Journal
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> -->
 <!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
@@ -36,17 +35,17 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### Conference
 
-<font color=DarkBlue> Award & Honor </font>
-======
+<font color=DarkBlue> # Award & Honor </font>
+
 * **\[2021\]** **Student Scholarship of University of Chinese Academy of Sciences**.
 * **\[2021\]** **Outstanding Graduate of Central South University**.
 
-<font color=DarkBlue> Professional Activities </font>
-======
+<font color=DarkBlue> # Professional Activities </font>
+
 * <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (T-ITS)
 
-<font color=DarkBlue> Website Visits </font>
-======
+<font color=DarkBlue> # Website Visits </font>
+
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 
