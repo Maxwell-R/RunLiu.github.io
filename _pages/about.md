@@ -25,6 +25,7 @@ Published Papers
 <!-- **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 <!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 \# co-first authors, * corresponding author 
+
 Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2022">2022</span>
@@ -32,7 +33,7 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2021">2021</span>
 
-1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*<\sup></i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">[CCF B|JCR Q1] </font></b>
+1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">[CCF B|JCR Q1] </font></b>
 
 ### Conferences
 
