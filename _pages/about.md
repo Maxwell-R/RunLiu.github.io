@@ -27,18 +27,18 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2022">2022</span>
-<!-- 1.  **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">J\[CR Q1\] </font></b> -->
+<!-- 1.  **\[IEEE T-IV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. </i></b> <font color="red">[JCR Q1] </font></b> -->
 
 ### <span id="jump2021">2021</span>
 
-1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. 2021.</i> <font color="red">[CCF B|JCR Q1] </font></b>
+1. **\[IEEE T-ITS\]** <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. "An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." <b><i>IEEE Transactions on Intelligent Transportation Systems. </i> <font color="red">[CCF B|JCR Q1]</font></b>
 
 ### Conference
 
-## <font color=DarkBlue> Award & Honor </font>
+## <font color=DarkBlue> Awards & Honors </font>
 
-* **\[2021\]** **Student Scholarship of University of Chinese Academy of Sciences**.
-* **\[2021\]** **Outstanding Graduate of Central South University**.
+* **\[2021\]** **Student Scholarship of University of Chinese Academy of Sciences**, University of Chinese Academy of Sciences.
+* **\[2021\]** **Outstanding Graduate of Central South University**, Central South University.
 
 ## <font color=DarkBlue> Professional Activities </font>
 
