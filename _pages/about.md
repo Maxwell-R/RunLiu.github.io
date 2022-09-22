@@ -50,4 +50,4 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Total page views: <span id="busuanzi_value_site_pv"></span></span>
+<span id="busuanzi_container_site_pv">Viewers: <span id="busuanzi_value_site_pv"></span></span>
