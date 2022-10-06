@@ -28,9 +28,9 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2022">2022</span>
-<!-- 1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
-<br/><b><i>IEEE Transactions on Intelligent Vehicles. </i> <font color="red">[JCR Q1] </font></b> -->
+<br/><b><i>IEEE Transactions on Intelligent Vehicles. </i> <font color="red">[JCR Q1] </font></b>
 
 ### <span id="jump2021">2021</span>
 
