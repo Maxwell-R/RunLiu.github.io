@@ -42,8 +42,8 @@ Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ## <font color=DarkBlue> Awards & Honors </font>
 
-* **\[2022\]** **Outstanding Graduate of Central South University**, Central South University.
-* **\[2021\]** **Student Scholarship of University of Chinese Academy of Sciences**, University of Chinese Academy of Sciences.
+* **\[2022\]**  **Outstanding Graduate of Central South University**, Central South University.
+* **\[2021\]**  **Student Scholarship of University of Chinese Academy of Sciences**, University of Chinese Academy of Sciences.
 
 ## <font color=DarkBlue> Professional Activities </font>
 
