@@ -21,14 +21,17 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 ## <font color=DarkBlue> Published Papers </font>
 
 ### Journal
-<!-- **\[SPJ IC\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "A Computing and Communication System for Delay-aware Task Offloading in UAV-aided MEC-based Vehicular Network." <b><i>SPJ Intelligent Computing. 2022.</i></b> -->
+<!-- **\[SPJ IC\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. "System Status Information Distribution Scheme in Cognitive-based Multi-UAV Large-scale Distributed System for Delay-aware Task Offloading." <b><i>Intelligent Computing. 2022.</i></b> -->
 <!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 \# co-first authors, * corresponding author 
 
 Publication Years: [2022](#jump2022), [2021](#jump2021)
 
 ### <span id="jump2022">2022</span>
-1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1.  **\[SPJ IC\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. 
+<br/>"System Status Information Distribution Scheme in Cognitive-based Multi-UAV Large-scale Distributed System for Delay-aware Task Offloading." 
+<br/><b><i>Intelligent Computing.</i></b>
+3.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i>IEEE Transactions on Intelligent Vehicles. </i> <font color="red">[JCR Q1] </font></b>
 
