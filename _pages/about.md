@@ -23,9 +23,9 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 \# co-first authors, * corresponding author 
 
 ### Journal
-<!-- **\[SPJ IC\]** <b>Run Liu</b><i>, Guosheng Huang, Zhenzhe Qu, Shaobo Zhang, Anfeng Liu*</i>. 
-<br/>"System Status Information Distribution Scheme in Cognitive-based Multi-UAV Large-scale Distributed System for Delay-aware Task Offloading." 
-<br/><b><i>Science Partner Journals - Intelligent Computing.</i></b> -->
+**\[SPJ ICOMPUTING\]** <b>Run Liu</b><i>, Zhenzhe Qu, Anfeng Liu*, Neal N. Xiong<sup>*</sup>, Athanasios V. Vasilakos</i>. 
+<br/>"A Cognitive Delay-aware Task Offloading Scheme in Multi-UAV Large-scale Distributed Systems." 
+<br/><b><i>Science Partner Journals - Intelligent Computing.</i></b>
 <!-- **\[IEEE COMML\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu*</i>. "DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." <b><i>IEEE Transactions on Intelligent Vehicles. 2022.</i></b> <font color="red">JCR Q1 </font></b>-->
 
 Publication Years: [2022](#j2022), [2021](#j2021)
