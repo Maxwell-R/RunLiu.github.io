@@ -33,9 +33,9 @@ Publication Years: [2022](#j2022), [2021](#j2021)
 1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i>IEEE Transactions on Intelligent Vehicles. </i> <font color="red">[JCR Q1] </font></b>
-<!-- 2. **\[ICOMPUTING\]** <b>Run Liu</b><i>, Zhenzhe Qu, Anfeng Liu, Neal N. Xiong<sup>*</sup>, Athanasios V. Vasilakos</i>. 
+2. **\[IComputing\]** <b>Run Liu</b><i>, Zhenzhe Qu, Anfeng Liu, Neal N. Xiong<sup>*</sup>, Athanasios V. Vasilakos</i>. 
 <br/>"A Cognitive Delay-aware Task Offloading Scheme in Multi-UAV Large-scale Distributed Systems." 
-<br/><b><i>Intelligent Computing.</i></b> -->
+<br/><b><i>Intelligent Computing.</i></b>
 
 ### <span id="j2021">2021</span>
 
