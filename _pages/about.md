@@ -49,10 +49,6 @@ Publication Years:
 * **\[2021\]**  **Student Scholarship of University of Chinese Academy of Sciences**
 <br/>_University of Chinese Academy of Sciences._
 
-## <font color=DarkBlue> Professional Activities </font>
-
-* <b>Reviewer of</b> [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) (IEEE TITS)
-
 ## <font color=DarkBlue> Website Visits </font>
 
 
