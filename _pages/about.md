@@ -28,7 +28,7 @@ Publication Years: [2022](#j2022), [2021](#j2021)
 
 ### <span id="j2022">2022</span>
 
-1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1.  **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang<sup>*</sup>, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i>IEEE Transactions on Intelligent Vehicles. </i> <font color="red">[JCR Q1] </font></b>
 
