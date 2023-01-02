@@ -49,10 +49,5 @@ Publication Years:
 * **\[2021\]**  **Student Scholarship of University of Chinese Academy of Sciences**
 <br/>_University of Chinese Academy of Sciences._
 
-## <font color=DarkBlue> Website Visits </font>
-
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Viewers: <span id="busuanzi_value_site_pv"></span></span>
+<script type="text/javascript" src="https://www.stat-counter.org/count/bw4f"></script><br>
+ <a href='https://www.versicherungen.at/private-krankenversicherung/'>Privat-Krankenversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=2914d4f8fc1238c0078cb82ed4255af89f43e19d'></script>
