@@ -24,7 +24,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Journal
 
-2. **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1. **\[IEEE TIV\]** <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i>IEEE Transactions on Intelligent Vehicles, 2022. </i> <font color="red">[JCR Q1] </font></b>
 
