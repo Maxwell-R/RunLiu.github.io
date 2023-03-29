@@ -35,6 +35,8 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
 <br/> doi: 10.1109/TITS.2021.3122567. 
+
+
 ### Conference
 
 ## <font color=DarkBlue> Awards & Honors </font>
