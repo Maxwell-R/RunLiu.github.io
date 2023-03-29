@@ -29,12 +29,12 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 1. <b><font color=DarkRed>[IEEE TIV | JCR Q1]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Vehicles</font>, 8(2): 1204-1218 (2023). </i> </b>
-<br/>doi: 10.1109/TIV.2022.3213703. 
+<br/> doi: 10.1109/TIV.2022.3213703. 
  
 1. <b><font color=DarkRed>[IEEE TITS | CCF B | JCR Q1]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
-<br/>doi: 10.1109/TITS.2021.3122567. 
+<br/> doi: 10.1109/TITS.2021.3122567. 
 ### Conference
 
 ## <font color=DarkBlue> Awards & Honors </font>
