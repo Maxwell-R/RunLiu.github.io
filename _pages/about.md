@@ -12,6 +12,8 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 
 Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
+<div class="info-box"><p><strong>Contact dblp:</strong> <span class="nowrap">dblp<span class="at"></span>dagstuhl.de</span></p></div>
+
 ## <font color=DarkBlue> Education </font>
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
