@@ -12,14 +12,6 @@ I received my B.E. degree in the Internet of Things Engineering at the [School o
 
 Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
-<div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-padding-top:15px;--awb-padding-right:15px;--awb-padding-left:15px;--awb-bg-color:#e3edf3;--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:10px;--awb-margin-bottom-large:20px;--awb-spacing-left-large:10px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:10px;--awb-spacing-left-medium:10px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:10px;--awb-spacing-left-small:10px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-3" style="--awb-text-transform:none;"><h3 data-fontsize="25" style="--fontSize:25; line-height: 1.3; --minFontSize:25;" data-lineheight="32.5px" class="fusion-responsive-typography-calculated">Editor-in-Chief</h3>
-<p><strong>Fei-Yue Wang</strong><br>
-Institute of Automation,<br>
-Chinese Academy of Sciences,<br>
-China<br>
-<a href="mailto:feiyue@ieee.org">feiyue@ieee.org</a></p>
-</div></div></div>
-
 ## <font color=DarkBlue> Education </font>
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2025. <br/>(Supervisor: [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng) and [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang))
