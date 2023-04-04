@@ -39,6 +39,18 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Conference
 
+1. <b><font color=DarkRed>[GLOBECOM 2023]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
+<br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
+<br/><b><i><font color=DarkBlue> IEEE Global Communications Conference </font>, 24(2): 2045-2059 (2023).</i> </b>
+<br/> doi: 10.1109/TITS.2021.3122567.
+
+1. <b><font color=DarkRed>[ICANN 2023]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
+<br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
+<br/><b><i><font color=DarkBlue> International Conference on
+Artificial Neural Networks </font>, 24(2): 2045-2059 (2023).</i> </b>
+<br/> doi: 10.1109/TITS.2021.3122567.
+
+
 ## <font color=DarkBlue> Awards & Honors </font>
 
 * **\[2022\]**  **Outstanding Graduate of Central South University**
