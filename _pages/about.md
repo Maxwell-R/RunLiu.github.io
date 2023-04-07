@@ -39,6 +39,9 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Conference
 
+1. <b><font color=DarkRed>[ICANN 2023| CCF C]</font></b> <i>Siyi Lu<sup>#</sup>, Bolei Chen<sup>#</sup>, Ping Zhong<sup>*</sup>, Yu Sheng, Yongzheng Cui, </i><b>Run Liu</b>.
+<br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
+<br/><b><i><font color=DarkBlue>The International Conference on Artificial Neural Networks 2023.</font></i> </b>
 
 ## <font color=DarkBlue> Awards & Honors </font>
 
