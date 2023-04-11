@@ -18,7 +18,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 
 
-## <font color=DarkBlue> Published Papers </font>
+## <font color=DarkBlue> Selected Publications </font>
 
 \# co-first authors, * corresponding author 
 
@@ -36,13 +36,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
 <br/> doi: 10.1109/TITS.2021.3122567. 
 
-
 ### Conference
-<!-- 
-1. <b><font color=DarkRed>[ICANN 2023 | CCF C]</font></b> <i>Siyi Lu<sup>#</sup>, Bolei Chen<sup>#</sup>, Ping Zhong<sup>*</sup>, Yu Sheng, Yongzheng Cui, </i><b>Run Liu</b>.
-<br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
-<br/><b><i><font color=DarkBlue>32nd International Conference on Artificial Neural Networks.</font></i> </b> 
--->
 
 ## <font color=DarkBlue> Awards & Honors </font>
 
