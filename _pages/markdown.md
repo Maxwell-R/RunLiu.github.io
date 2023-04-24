@@ -17,12 +17,12 @@ redirect_from:
 <br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (GLOBECOM)</font>, Rio de Janeiro, Brazil, December 4-8, 2022.</i> </b> 
   
   
-1. <b><font color=DarkRed>[IMC'23 | CCF B]</font></b> <i>Zhenghan Cheng<sup>#</sup></i>, **Ryan R. Liu**<sup>#</sup><sup>*</sup>.
+1. <b><font color=DarkRed>[IMC'23 | CCF B]</font></b> <i>Zhenghan Cheng<sup>#</sup></i>, **Run Liu**<sup>#</sup><sup>*</sup>.
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
 <br/><b><i><font color=DarkBlue>Proceedings of the 22nd ACM Internet Measurement Conference (IMC)</font>, Nice, France, October 25-27, 2022.</i> </b> 
 
-1. <b><font color=DarkRed>[ACM TOIT | CCF B]</font></b> **Ryan R. Liu**<sup>#</sup><sup>*</sup>, <i>Zhenghan Cheng<sup>#</sup></i>.
+1. <b><font color=DarkRed>[IEEE IoTJ | CCF C]</font></b> **Run Liu**<sup>#</sup><sup>*</sup>, <i>Zhenghan Cheng<sup>#</sup></i>.
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
-<br/><b><i><font color=DarkBlue>ACM Transactions on Internet Technology</font> 2022.</i> </b> 
+<br/><b><i><font color=DarkBlue>IEEE Internet of Things Journal</font> 2022.</i> </b> 
 
 
