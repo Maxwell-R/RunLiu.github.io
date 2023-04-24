@@ -20,3 +20,9 @@ redirect_from:
 1. <b><font color=DarkRed>[IMC'23 | CCF B]</font></b> <i>Zhenghan Cheng<sup>#</sup></i>, **Ryan R. Liu**<sup>#</sup><sup>*</sup>.
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
 <br/><b><i><font color=DarkBlue>Proceedings of the 22nd ACM Internet Measurement Conference (IMC)</font>, Nice, France, October 25-27, 2022.</i> </b> 
+
+1. <b><font color=DarkRed>[TOIT | CCF B]</font></b> **Ryan R. Liu**<sup>#</sup><sup>*</sup>, <i>Zhenghan Cheng<sup>#</sup></i>.
+<br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
+<br/><b><i><font color=DarkBlue>ACM Transactions on Internet Technology</font> 2022.</i> </b> 
+
+
