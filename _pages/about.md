@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "<font color=DarkBlue>Run Liu</font><br/>Research Center of Ubiqutious Sensor Networks,<br/>University of Chinese Academy of Sciences"
+title: "<font color=DarkBlue>Run Liu</font><br/>Research Center of Ubiquitous Sensor Networks,<br/>University of Chinese Academy of Sciences"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
