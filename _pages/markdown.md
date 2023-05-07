@@ -14,7 +14,7 @@ redirect_from:
 
 1. <b><font color=DarkRed>[Globecom'23 | CCF C]</font></b> <i>Xiaoyao Huang (Supervisor)<sup>#</sup></i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Guanglun Huang, Baoxian Zhang_.
 <br/>"Deep Reinforcement Learning for Multistage Profit-aware Task Scheduling in Computing Power Network."
-<br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (GLOBECOM)</font>, Kuala Lumpur, Malaysia, December 4-8, 2023.</i> </b> 
+<br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (Globecom)</font>, Kuala Lumpur, Malaysia, December 4-8, 2023.</i> </b> 
   
   
 1. <b><font color=DarkRed>[IMC'23 | CCF B]</font></b> <i>Zhenghan Cheng<sup>#</sup></i>, **Run Liu**<sup>#</sup><sup>*</sup>.
