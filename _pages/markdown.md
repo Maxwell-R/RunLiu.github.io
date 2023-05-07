@@ -12,7 +12,7 @@ redirect_from:
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
 <br/><b><i><font color=DarkBlue>31st International Conference on Artificial Neural Networks (ICANN)</font>, Bristol, UK, September 6-9, 2022.</i> </b> 
 
-1. <b><font color=DarkRed>[GLOBECOM'23 | CCF C]</font></b> <i>Xiaoyao Huang (Supervisor)<sup>#</sup></i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Guanglun Huang, Baoxian Zhang_.
+1. <b><font color=DarkRed>[Globecom'23 | CCF C]</font></b> <i>Xiaoyao Huang (Supervisor)<sup>#</sup></i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Guanglun Huang, Baoxian Zhang_.
 <br/>"Deep Reinforcement Learning for Multistage Profit-aware Task Scheduling in Computing Power Network."
 <br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (GLOBECOM)</font>, Kuala Lumpur, Malaysia, December 4-8, 2023.</i> </b> 
   
