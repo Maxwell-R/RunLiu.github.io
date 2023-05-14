@@ -54,11 +54,3 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 <script type="text/javascript" src="https://www.stat-counter.org/count/bw4f"></script><br>
  <a href='https://www.versicherungen.at/private-krankenversicherung/'>Privat-Krankenversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=2914d4f8fc1238c0078cb82ed4255af89f43e19d'></script>
 
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "gt3w6nb9wq");
-</script>
-
