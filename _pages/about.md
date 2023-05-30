@@ -45,7 +45,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 * **\[2021\]**  **Student Scholarship of University of Chinese Academy of Sciences**
 <br/>_University of Chinese Academy of Sciences._
 
-## Academic Services
+## Professional Activities
 
 * IEEE Student Member.
 * Reviewer of IEEE Transactions on Intelligent Transportation Systems (TITS).
