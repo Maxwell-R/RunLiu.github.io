@@ -26,12 +26,12 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Journal
 
-1. <b><font color=DarkRed>[IEEE TIV | JCR Q1]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1. <b><font color=DarkRed>[IEEE T-IV | JCR Q1]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Vehicles</font>, 8(2): 1204-1218 (2023). </i> </b>
 <br/>doi: 10.1109/TIV.2022.3213703. 
  
-1. <b><font color=DarkRed>[IEEE TITS | CCF B | JCR Q1]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
+1. <b><font color=DarkRed>[IEEE T-ITS | CCF B | JCR Q1]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
 <br/> doi: 10.1109/TITS.2021.3122567. 
@@ -45,11 +45,6 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 * **\[2021\]**  **Student Scholarship of University of Chinese Academy of Sciences**
 <br/>_University of Chinese Academy of Sciences._
 
-## Professional Activities
-
-* IEEE Student Member.
-* Reviewer of IEEE Transactions on Intelligent Transportation Systems (TITS).
-* Member of IEEE Communications Society, IEEE Computer Society.
 
 <script type="text/javascript" src="https://www.stat-counter.org/count/bw4f"></script><br>
  <a href='https://www.versicherungen.at/private-krankenversicherung/'>Privat-Krankenversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=2914d4f8fc1238c0078cb82ed4255af89f43e19d'></script>
