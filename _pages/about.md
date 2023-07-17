@@ -24,20 +24,6 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Early Access
 
-1. <b><font color=DarkRed>[IEEE IOT-J | CCF C | JCR Q1]</font></b> <b>Run Liu</b><i>, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
-<br/>"Joint Optimization Risk Factor and Energy Consumption in UAV-enabled IoT networks." 
-<br/><b><i><font color=DarkBlue>IEEE Internet of Things Journal</font>, 8(2): 1204-1218 (2023). </i> </b>
-<br/>doi: 10.1109/IOTJ.2022.3213703.
-
-1. <b><font color=DarkRed>[IEEE TVT | JCR Q1]</font></b> <i>Xiaoyao Huang (Supervisor)</i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Guanglun Huang, Baoxian Zhang_<sup>#</sup>. 
-<br/>"Joint Optimization Risk Factor and Energy Consumption in UAV-enabled IoT networks." 
-<br/><b><i><font color=DarkBlue>IEEE Transactions on Vehicular Technology</font>, 8(2): 1204-1218 (2023). </i> </b>
-<br/>doi: 10.1109/IOTJ.2022.3213703.
-
-1. <b><font color=DarkRed>[GLOBECOM'23 | CCF C]</font></b> <i>Xiaoyao Huang (Supervisor)</i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Guanglun Huang, Baoxian Zhang_<sup>#</sup>.
-<br/>"DRL-based Multistage Profit Aware Task Scheduling Algorithm for Computing Power Network with Temporal-spatial variability."
-<br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (Globecom)</font>, Kuala Lumpur, Malaysia, December 4-8, 2023.</i> </b> 
-
 ### Journal
 
 1. <b><font color=DarkRed>[IEEE T-IV | JCR Q1]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
