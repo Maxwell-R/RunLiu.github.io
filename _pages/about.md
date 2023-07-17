@@ -24,7 +24,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Early Access
 
-1. <b><font color=DarkRed>[IEEE IOT-J | JCR Q1]</font></b> <b>Run Liu</b><i>, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
+1. <b><font color=DarkRed>[IEEE IOT-J | CCF C | JCR Q1]</font></b> <b>Run Liu</b><i>, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"Joint Optimization Risk Factor and Energy Consumption in UAV-enabled IoT networks." 
 <br/><b><i><font color=DarkBlue>IEEE Internet of Things Journal</font>, 8(2): 1204-1218 (2023). </i> </b>
 <br/>doi: 10.1109/IOTJ.2022.3213703. 
