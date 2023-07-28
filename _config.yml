@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Run Liu"
+title                    : "Run Liu" 
 title_separator          : "-"
 name                     : &name "Run Liu (刘润)"
 description              : &description "personal description"
