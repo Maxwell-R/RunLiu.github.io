@@ -39,7 +39,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Conference
 
-1. <b><font color=DarkRed>[ICONIP'23]</font></b> _Siyi Lu, Bolei Chen, Ping Zhong, Yu Sheng, Yongzheng Cui,_ **Run Liu**.
+1. <b><font color=DarkRed>[ICONIP'23 | CCF C]</font></b> _Siyi Lu, Bolei Chen, Ping Zhong, Yu Sheng, Yongzheng Cui,_ **Run Liu**.
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
 <br/><b><i><font color=DarkBlue>International Conference on Neural Information Processing.</font></i> </b>
 
