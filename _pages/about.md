@@ -24,6 +24,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Early Access
 
+
 ### Journal
 
 1. <b><font color=DarkRed>[IEEE T-IV | JCR Q1]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
@@ -34,9 +35,14 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 1. <b><font color=DarkRed>[IEEE T-ITS | CCF B | JCR Q1]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
-<br/> doi: 10.1109/TITS.2021.3122567. 
+<br/>doi: 10.1109/TITS.2021.3122567. 
 
 ### Conference
+
+1. <b><font color=DarkRed>[ICONIP'23]</font></b> _Siyi Lu, Bolei Chen, Ping Zhong, Yu Sheng, Yongzheng Cui,_ **Run Liu**.
+<br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
+<br/><b><i><font color=DarkBlue>International Conference on Neural Information Processing.</font></i> </b>
+
 
 ## <font color=DarkBlue> Awards & Honors </font>
 
