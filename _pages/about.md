@@ -33,7 +33,7 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Vehicles</font>, 8(2): 1204-1218 (2023). </i> </b>
 <br/>doi: 10.1109/TIV.2022.3213703. 
  
-1. <b><font color=DarkRed>[IEEE T-ITS | CCF B | 中科院一区]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
+1. <b><font color=DarkRed>[IEEE T-ITS | CCF B | 中科院一区Top]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b>
 <br/>doi: 10.1109/TITS.2021.3122567. 
