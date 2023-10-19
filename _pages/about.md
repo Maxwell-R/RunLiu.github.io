@@ -59,6 +59,3 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 <br/>_University of Chinese Academy of Sciences._
 
 
-<script type="text/javascript" src="https://www.stat-counter.org/count/bw4f"></script><br>
- <a href='https://www.versicherungen.at/private-krankenversicherung/'>Privat-Krankenversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=2914d4f8fc1238c0078cb82ed4255af89f43e19d'></script>
-
