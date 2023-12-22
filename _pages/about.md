@@ -25,12 +25,11 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Early Access
 
-<!--
-1. <b><font color=DarkRed>[IEEE IoT-J]</font></b> <b>Run Liu</b><i>, Mande Xie, Anfeng Liu<sup>*</sup>, Shaobo Zhang, Tian Wang</i>. 
+
+1. <b><font color=DarkRed>[IEEE IoT-J]</font></b> <b>Run Liu</b><i>, Mande Xie<sup>*</sup>, Anfeng Liu<sup>*</sup>, Houbing Song</i>. 
 <br/>"Joint Optimization Risk Factor and Energy Consumption in IoT networks with TinyML-enabled Internet of UAVs." 
-<br/><b><i><font color=DarkBlue>IEEE Internet of Things Journal</font>. </i> </b>
-<br/>doi: .
--->
+<br/><b><i><font color=DarkBlue>IEEE Internet of Things Journal</font>. Accepted.</i> </b>
+
 
 ### Journal
 
