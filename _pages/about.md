@@ -11,7 +11,9 @@ redirect_from:
 I received my B.E. degree in the Internet of Things Engineering at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/index.htm), [Central South University](https://www.csu.edu.cn/) (CSU), China, in 2022. I'm currently pursuing the master's degree in Computer Applied Technology at the [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), Research Center of Ubiquitous Sensor Networks, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS). My research interests include Internet of Things, Wireless Networks, Wireless Communication, Edge Computing and Deep Reinforcement Learning.
 
 Welcome to contact me by email: liurun22@mails.ucas.ac.cn
-
+<!--
+UAV Data Collection in Dynamic IoT Networks <a href="T-IV 23">[T-IV 23]</a> and Intelligent Transaction System <a href="T-ITS 23">[T-ITS 23]</a>.
+-->
 ## <font color=DarkBlue> Education </font>
 * **M.E.** in _Computer Applied Technology_, **University of Chinese Academy of Sciences**, 2022-2025. <br/>(Supervisor: [Prof. Baoxian Zhang](https://people.ucas.ac.cn/~bxzhang) and [Prof. Zheng Yao](https://people.ucas.ac.cn/~yaozheng))
 * **B.E.** in _Internet of Things Engineering_, **Central South University**, 2018-2022. <br/>(Supervisor: [Prof. Anfeng Liu](https://faculty.csu.edu.cn/anfengliu/zh_CN/index.htm))
@@ -33,11 +35,13 @@ Welcome to contact me by email: liurun22@mails.ucas.ac.cn
 
 ### Journal
 
+<a name="T-IV 23"></a>
 1. <b><font color=DarkRed>[IEEE T-IV]</font></b> <b>Run Liu</b><i>, Zhenzhe Qu, Guosheng Huang, Mianxiong Dong, Tian Wang, Shaobo Zhang, Anfeng Liu<sup>*</sup></i>. 
 <br/>"DRL-UTPS: DRL-based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Vehicles</font>, 8(2): 1204-1218 (2023). </i> </b>
 <br/>doi: 10.1109/TIV.2022.3213703. 
- 
+
+<a name="T-ITS 23"></a>
 1. <b><font color=DarkRed>[IEEE T-ITS | CCF B]</font></b> <b>Run Liu</b><i>, Anfeng Liu, Zhenzhe Qu, Neal N. Xiong<sup>*</sup></i>. 
 <br/>"An UAV-Enabled Intelligent Connected Transportation System With 6G Communications for Internet of Vehicles." 
 <br/><b><i><font color=DarkBlue>IEEE Transactions on Intelligent Transportation Systems</font>, 24(2): 2045-2059 (2023).</i> </b> 
