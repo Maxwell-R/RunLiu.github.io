@@ -9,7 +9,7 @@ redirect_from:
 ---
 <sup>*</sup> Supervisor, <sup>#</sup> Corresponding Author.
 
-1.<b><font color=DarkRed>[GLOBECOM'24 | CCF C]</font></b> <i>Xiaoyao Huang<sup>*</sup></i>, **Remington R. Liu**<sup></sup>, _Jie Wu, Baoxian Zhang_<sup>#</sup>.
+1. <b><font color=DarkRed>[GLOBECOM'24 | CCF C]</font></b> <i>Xiaoyao Huang<sup>*</sup></i>, **Remington R. Liu**<sup></sup>, _Jie Wu, Baoxian Zhang_<sup>#</sup>.
 <br/>"Profit-Aware Computing Server Clustering and Task Scheduling in Computing Power Network."
 <br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (Globecom)</font>, Cape Town, South Africa, December 8-12, 2024.</i> </b> 
 
