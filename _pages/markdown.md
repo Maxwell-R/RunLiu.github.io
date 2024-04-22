@@ -13,7 +13,7 @@ redirect_from:
 <br/>"Profit-Aware Computing Server Clustering and Task Scheduling in Computing Power Network."
 <br/><b><i><font color=DarkBlue>IEEE Global Communications Conference (Globecom)</font>, Cape Town, South Africa, December 8-12, 2024.</i> </b> 
 
-2. <b><font color=DarkRed>[ICC'24 | CCF C]</font></b> <i>Xiaoyao Huang<sup>*</sup></i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Wenjuan Xing, Xing Zhang_<sup>#</sup>.
+1. <b><font color=DarkRed>[ICC'24 | CCF C]</font></b> <i>Xiaoyao Huang<sup>*</sup></i>, **Remington R. Liu**<sup></sup>, _Bo Lei, Wenjuan Xing, Xing Zhang_<sup>#</sup>.
 <br/>"Platform Profit Maximization for Space-Air-Ground Integrated Computing Power Network Supplied by Green Energy."
 <br/><b><i><font color=DarkBlue>IEEE International Conference on Communications (ICC)</font>, Denver, CO, USA, June 9-13, 2024.</i> </b> 
 
