@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 <sup>*</sup> Supervisor, <sup>#</sup> Corresponding Author.
-1. <b><font color=DarkRed>[IROS'23]</font></b> Siyi Lu<font color=DarkRed><sup>❤</sup></font>, _Ping Zhong<sup>*</sup>, Shuqi Ye, Bolei Chen, Sheng Yu, _ **Run Liu**.
+1. <b><font color=DarkRed>[IROS'23]</font></b> Siyi Lu<font color=DarkRed><sup>❤</sup></font>,_ Ping Zhong<sup>*</sup>, Shuqi Ye, Bolei Chen, Sheng Yu,_ **Run Liu**.
 <br/>"CrowdNav-HERO: Pedestrian Trajectory Prediction Based Crowded Navigation with Human-Environment-Robot Ternary Fusion."
 <br/><b><i><font color=DarkBlue>The 30th International Conference on Neural Information Processing (ICONIP).</font></i> </b>
 
